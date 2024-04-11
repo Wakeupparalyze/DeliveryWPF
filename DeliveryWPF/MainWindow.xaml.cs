@@ -48,7 +48,7 @@ namespace DeliveryWPF
             }
         }
 
-        private void Abi(object sender, RoutedEventArgs e)
+        private void ForgPass(object sender, RoutedEventArgs e)
         {
 
         }
