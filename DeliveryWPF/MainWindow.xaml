@@ -15,7 +15,7 @@
             <PasswordBox x:Name="PasswordTxt" HorizontalAlignment="Center" FontSize="35" Width="750"/>
             <Button BorderThickness="1" Width="300" FontSize="35" Margin="0 20 0 10" Click="SignIn" Content="Войти"/>
             <TextBlock FontSize="25" HorizontalAlignment="Center">
-                <Hyperlink Click="Abi">Не помню пароль</Hyperlink>
+                <Hyperlink Click="ForgPass">Не помню пароль</Hyperlink>
             </TextBlock>
         </StackPanel>
     </Grid>
